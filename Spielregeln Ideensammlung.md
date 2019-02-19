@@ -34,24 +34,25 @@ Einheiten
   - leichter Panzer
   - schwerer Panzer
   
-- Arbeiter
-  - keine Rüstung und keine Waffen
-  - produzieren jede Runde eine bestimmte Anzahl an Geld
+- Ingenieure/Sanitäter
+  - Reparieren von Einheiten und Gebäuden
+  - keine Rüstung/keine Waffen
+
 
 Gebäude
 - verschiedene Gebäudetypen
   - Basis 
-    - Produktion von Arbeitern
     - Wenn dieses Gebäude zerstört ist, ist das Spiel verloren
   - Kaserne
-    - Produktion von Fußtruppen
+    - Produktion von Fußtruppen (Soldaten, Ingenieure, Sanitäter)
   - Panzerfabrik
     - Produktion von fahrenden Truppen
   - evtl. Flugplatz
-  - evtl. Forschungslabor
+  - Forschungslabor
     - Erforschen von Aktionskarten
-- jedes Gebäude hat eine bestimmte Anzahl von AP
-- jedes Gebäude hat eine bestimme Anzahl von "Produktionsslots"
+    - Erforschung von Umwandlung AP in Geld
+- jedes Gebäude hat eine bestimmte Anzahl von LP
+- jedes Gebäude hat eine bestimme Anzahl von "Produktionsslots" (evtl. freischaltbar)
 
 Aktionspunkte
 - Jede Runde erhält jeder Spieler einen AP-Grundstock
@@ -67,4 +68,5 @@ Rundenablauf
 - Startspieler benutzt beliebig viele seiner AP bis erpasst
 - In Reihenfolge benutzt jeder Spieler beliebig viele seiner AP bis derjenige passt
 - Dies passiert so lange, bis alle Spieler passen (auch wenn noch AP übrig sind) oder keine AP mehr besitzen
+- Übrige AP können zur Geldproduktion verwendet werden (siehe Labor)
 
